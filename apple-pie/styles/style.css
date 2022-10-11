@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+header {
+    padding-top: 300px;
+    padding-left: 500px;
+    height: 500px;
+    background-image: url("../images/apple-pie.jpg");
+    
+}
+h1 {
+font-size: 80px;
+color: aliceblue;
+}
+.fav{
+    margin-top: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+
+}
+.pies{
+ margin-top: 5%;
+ margin-bottom: 5%;   
+}
+
+
